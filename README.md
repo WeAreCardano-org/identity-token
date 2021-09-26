@@ -2,9 +2,18 @@
 
 ## Mission
 
- 1. Whereas there is a need for a metadata standard for tokens that represent identity, we will identify the characteristics of an ideal version of such a standard.
+ 1. Whereas there is a need for a metadata standard for tokens that
+    represent identity, we will identify the characteristics of an
+    ideal version of such a standard.
  2. To these ends, we will derive inspiration from existing systems, 
  3. and we will make this as easy to use and compatable as possible.
+ 
+Identity is fundamentally context-specific. Thus, each person must
+have an identity for particular occasions, but just as the human being
+links these identities together, it is suiting for them to be
+derivative of that genetic identity previously mentioned. Facets,
+context-specific identities subsumed by hte genetic identity, can be
+used for all applications. The total identity is a combination of everything.
  
 ## Tasks
 
