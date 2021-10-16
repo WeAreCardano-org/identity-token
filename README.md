@@ -12,8 +12,9 @@ Identity is fundamentally context-specific. Thus, each person must
 have an identity for particular occasions, but just as the human being
 links these identities together, it is suiting for them to be
 derivative of that genetic identity previously mentioned. Facets,
-context-specific identities subsumed by hte genetic identity, can be
+context-specific identities subsumed by the genetic identity, can be
 used for all applications. The total identity is a combination of everything.
+Including but not limited to personal, professional, and social identities. 
  
 ## Tasks
 
